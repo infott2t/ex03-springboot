@@ -14,6 +14,7 @@ admin, 관리자 페이지의 접근권한은 관리자 권한이 있는 아이�
 자동화 코드의 생성 형태와 같게 나올 수 있게 만들었네요.
 https://github.com/infott2t/Auto_writting_JavaCode_makeSwing
 도움이 되었으면 좋겠습니다~.
+View 부분(mustache, html)의 자동화 코드 생성을 또 하구요. 현재 자동화 코드는, dto, domain, controller부분정도 되구요. 그래서 중복코드인, View부분도 만들려고 하네요.
 
 <br/>
 또, 이 책의 내용과 같게 코드를 짜고 있습니다. 앞의 build.gradle파일이 약간 다를 수 있구요.
